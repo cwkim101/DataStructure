@@ -1,4 +1,5 @@
 /* 
+ *
  * Data Structure - Stack
  *
  * Author   : ChangWook Kim
@@ -74,8 +75,7 @@ void printStack(Stack *pStack){
 	int i;
 	int size = pStack->top;
 
-	printf("CURRENT STACK\n");
-	for(i = 0; i <= size; i++)
+	for(i = size; i >= 0; i--)
 		printf("%d ", pStack->stackArray[i]);
 	printf("\n");	
 }
