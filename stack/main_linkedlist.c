@@ -1,6 +1,6 @@
 /* 
  *
- * Data Structure - Stack
+ * Data Structure - Stack(linked list)
  *
  * Author   : ChangWook Kim
  * Modified : Sep. 29. 2017

@@ -1,6 +1,6 @@
 /* 
  *
- * Data Structure - Stack
+ * Data Structure - Stack(array)
  *
  * Author   : ChangWook Kim
  * Modified : Sep. 29. 2017
